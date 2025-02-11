@@ -48,3 +48,23 @@ C:\Users\ΗΟΜΕ\source\repos\erg\battleship2\battleship2\obj\Debug\battleship2
 C:\Users\ΗΟΜΕ\source\repos\erg\battleship2\battleship2\obj\Debug\battlesh.3FC75B4F.Up2Date
 C:\Users\ΗΟΜΕ\source\repos\erg\battleship2\battleship2\obj\Debug\battleship2.exe
 C:\Users\ΗΟΜΕ\source\repos\erg\battleship2\battleship2\obj\Debug\battleship2.pdb
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\battleship2.exe.config
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\battleship2.exe
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\battleship2.pdb
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\EntityFramework.dll
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\System.Data.SQLite.dll
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\EntityFramework.xml
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\bin\Debug\System.Data.SQLite.xml
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\obj\Debug\battleship2.csproj.AssemblyReference.cache
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\obj\Debug\battleship2.Form1.resources
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\obj\Debug\battleship2.Form2.resources
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\obj\Debug\battleship2.Properties.Resources.resources
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\obj\Debug\battleship2.csproj.GenerateResource.cache
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\obj\Debug\battleship2.csproj.CoreCompileInputs.cache
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\obj\Debug\battlesh.3FC75B4F.Up2Date
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\obj\Debug\battleship2.exe
+C:\Users\pkele\Desktop\MINE\ΠΑΝΕΠΙΣΤΗΜΙΟ\ΕΞΑΜΗΝΟ 3\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΑΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\FINAL EXAME 2025\Final_Exam\BattleShip\battleship2\obj\Debug\battleship2.pdb

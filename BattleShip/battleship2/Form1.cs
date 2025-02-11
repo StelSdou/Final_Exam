@@ -292,8 +292,10 @@ namespace battleship2
             foreach (Ship s in shipList)
             {
                 s.ClearPosition(ref MyShips);
-                s.Location = new Point(0, 0);
+                s.Location = new Point(0, 0);                
             }
+            shipList.Clear();
+            ship_count = 0;
             print(MyShips);
         }
 

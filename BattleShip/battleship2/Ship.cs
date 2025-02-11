@@ -69,6 +69,8 @@ namespace battleship2
                 map[c[1], c[0]] = false;
             }
             coordinates.Clear();
+            m = false; 
+            ok = false;
         }
 
         public void SumHits(bool w)

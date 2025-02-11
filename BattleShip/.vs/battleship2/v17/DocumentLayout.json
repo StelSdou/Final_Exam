@@ -1,12 +1,100 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0397\u039F\u039C\u0395\\source\\repos\\erg\\battleship2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|c:\\users\\pkele\\desktop\\mine\\\u03C0\u03B1\u03BD\u03B5\u03C0\u03B9\u03C3\u03C4\u03B7\u03BC\u03B9\u03BF\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF 3\\\u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03B9\u03BC\u03B5\u03BD\u03BF\u03C3\u03C4\u03C1\u03B1\u03C6\u03B7\u03C3 \u03B1\u03BD\u03B1\u03C0\u03C4\u03C5\u03BE\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03C9\u03BD\\final exame 2025\\final_exam\\battleship\\battleship2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|solutionrelative:battleship2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|c:\\users\\pkele\\desktop\\mine\\\u03C0\u03B1\u03BD\u03B5\u03C0\u03B9\u03C3\u03C4\u03B7\u03BC\u03B9\u03BF\\\u03B5\u03BE\u03B1\u03BC\u03B7\u03BD\u03BF 3\\\u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03B9\u03BC\u03B5\u03BD\u03BF\u03C3\u03C4\u03C1\u03B1\u03C6\u03B7\u03C3 \u03B1\u03BD\u03B1\u03C0\u03C4\u03C5\u03BE\u03B7 \u03B5\u03C6\u03B1\u03C1\u03BC\u03BF\u03B3\u03C9\u03BD\\final exame 2025\\final_exam\\battleship\\battleship2\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|solutionrelative:battleship2\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|solutionrelative:battleship2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|solutionrelative:battleship2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C70A8E-9C12-4FC5-9535-3EB3C011B690}|battleship2\\battleship2.csproj|solutionrelative:battleship2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 100,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Ship.cs",
+              "RelativeDocumentMoniker": "battleship2\\Ship.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Ship.cs",
+              "RelativeToolTip": "battleship2\\Ship.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAhwEgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:29:22.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Form1.cs",
+              "RelativeDocumentMoniker": "battleship2\\Form1.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Form1.cs",
+              "RelativeToolTip": "battleship2\\Form1.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAmwOQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:07:58.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Form2.cs",
+              "RelativeDocumentMoniker": "battleship2\\Form2.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Form2.cs",
+              "RelativeToolTip": "battleship2\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:07:46.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Form2.cs",
+              "RelativeDocumentMoniker": "battleship2\\Form2.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Form2.cs [Design]",
+              "RelativeToolTip": "battleship2\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:07:40.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Form1.cs",
+              "RelativeDocumentMoniker": "battleship2\\Form1.cs",
+              "ToolTip": "C:\\Users\\pkele\\Desktop\\MINE\\\u03A0\u0391\u039D\u0395\u03A0\u0399\u03A3\u03A4\u0397\u039C\u0399\u039F\\\u0395\u039E\u0391\u039C\u0397\u039D\u039F 3\\\u0391\u039D\u03A4\u0399\u039A\u0395\u0399\u039C\u0395\u039D\u039F\u03A3\u03A4\u03A1\u0391\u03A6\u0397\u03A3 \u0391\u039D\u0391\u03A0\u03A4\u03A5\u039E\u0397 \u0395\u03A6\u0391\u03A1\u039C\u039F\u0393\u03A9\u039D\\FINAL EXAME 2025\\Final_Exam\\BattleShip\\battleship2\\Form1.cs [Design]",
+              "RelativeToolTip": "battleship2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:07:39.034Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
